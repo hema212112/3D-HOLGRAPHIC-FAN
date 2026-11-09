@@ -110,10 +110,9 @@ It reports that the prototype displayed logos, symbols, text animations, and sim
 │   └── README.md
 ├── hardware/
 │   └── README.md
-├── media/
-│   └── README.md
-└── docs/
+└──  media/
     └── README.md
+
 ```
 
 
